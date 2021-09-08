@@ -1,0 +1,34 @@
+[
+  {
+      "authorName": "Jun Sakai",
+      "authorImage": null,
+      "authorDescription": "Jun Sakai is a software engineer, published author, and former professional soccer player – Teaches in Japanese"
+  },
+
+  {
+      "authorName": "Diego Davilla",
+      "authorImage": null,
+      "authorDescription": "Spanish entrepreneur and digital marketing innovator – Teaches in Spanish"
+  },
+
+  {
+    "authorName": "Leveli Bulling",
+    "authorImage": null,
+    "authorDescription": "Executive coach specializing in helping leaders decide what to say and how to say it. Her work has been featured in Forbes, Women’s Health, BBC, WSJ, Marketplace Radio, Fast Company, SHRM, and others."
+  },
+  {
+    "authorName": "Mohammad Azam",
+    "authorImage": null,
+    "authorDescription": "Apple Featured iOS Developer and iOS Instructor"
+  },
+  {
+    "authorName": "Randi ZuckerBurg",
+    "authorImage": null,
+    "authorDescription": "Entrepreneur, investor, advisor, bestselling author, and tech media personality. After noticing that she was one of way too few women in tech, she founded Zuckerberg Media."
+  },
+  {
+    "authorName": "Crystal Richards",
+    "authorImage": null,
+    "authorDescription": "Principal and Owner of MindsparQ™, MHA, and a certified project manager with PMP and PMI-ACP credentials"
+  }
+]
